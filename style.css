@@ -1,2 +1,4 @@
-#mapid { height: 400px;}
+#mapid { 
+  position: absolute;
+  height: 400px;}
 
